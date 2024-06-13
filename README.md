@@ -14,7 +14,7 @@ Example of valid domains.json :
 [
     "www.google.com",
     "google.com",
-    "https://google.com"
+    "microsoft.com"
 ]
 ```
 
